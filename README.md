@@ -40,14 +40,12 @@ BankSectorNIDSdatasetCoverage/
 │   └── disputed_techniques_expert_review.csv
 │
 ├── stage3_dataset_mapping/
-│   ├── mapping_CTU-13.xlsx
-│   ├── mapping_UNSW-NB15.xlsx
-│   ├── mapping_CICIDS2017.xlsx
-│   ├── mapping_CIC-DDoS2019.xlsx
-│   └── mapping_UWF-ZeekData22.xlsx
-│
-└── figures/
-    └── dashboard_detectability_analysis.png
+    ├── mapping_CTU-13.xlsx
+    ├── mapping_UNSW-NB15.xlsx
+    ├── mapping_CICIDS2017.xlsx
+    ├── mapping_CIC-DDoS2019.xlsx
+    └── mapping_UWF-ZeekData22.xlsx
+
 ```
 
 ---
